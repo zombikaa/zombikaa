@@ -1,4 +1,4 @@
-<h1 align="center">Szia, én Tóth Zsombor vagyok! 👋</h1>
+<h1 align="center">Szia, Tóth Zsombornak hívnak! 👋</h1>
 <h3 align="center">Full-Stack Web és App Fejlesztő</h3>
 
 ## 🚀 Rólam
