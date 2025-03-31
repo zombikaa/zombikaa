@@ -14,7 +14,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📫 Elérhetőségem
-- GitHub: [github.com/tothzsombor](https://github.com/tothzsombor)
+- GitHub: [github.com/zombikaa](https://github.com/zombikaa)
 - Sindey Projekt: [sindey.net](https://sindey.net)
 
 ---
@@ -35,5 +35,5 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📫 Contact Me
-- GitHub: [github.com/tothzsombor](https://github.com/tothzsombor)
+- GitHub: [github.com/zombikaa](https://github.com/zombikaa)
 - Sindey Project: [sindey.net](https://sindey.net)
